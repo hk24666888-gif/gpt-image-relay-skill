@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Image Relay"
+  short_description: "Generate images through configurable OpenAI-compatible image API relays."
+  default_prompt: "Generate an image using my configured image relay aliases."
